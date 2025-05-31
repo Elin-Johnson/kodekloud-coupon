@@ -121,7 +121,7 @@ And it doesn't stop there. KodeKloud gives you practical tasks and projects to w
 
 Plus, you'll be part of a friendly community of learners. You can share ideas and grow together. With KodeKloud, you're set for success in the world of tech.
 
-## KodeKloud Prcing Plans Explained
+## KodeKloud Pricing Plans Explained
 
 To understand how much you can save on KodeKloud, you need to understand the details of their pricing plans and the features included in the plans.
 
